@@ -1,0 +1,56 @@
+.table-custom{
+	background-color: rgb(10, 180, 252, 0.20);
+	color: rgb(30, 29, 61, 1);
+	border: 5px solid #2b2a47;
+	margin-top:20px;
+	margin-bottom:100px;
+}
+
+.table-custom .th-custom {	
+	text-align: center;
+	vertical-align: middle;
+	border: 3px solid #2b2a47;
+	
+}
+
+.table-custom .td-custom {
+	text-align: center;
+	vertical-align: middle;
+	border: 3px solid #2b2a47;
+}
+
+
+
+
+.panel-custom{
+	margin-bottom:80px;
+	
+}
+
+.panel-custom .panel-heading{
+	background-color:#2b2a47;
+	color:white;
+	border: 3px solid #2b2a47;
+}
+.panel-custom .panel-body{
+	border: 1px solid #2b2a47;
+}
+
+
+
+
+
+
+.container{
+	position: relative;
+  min-height: 90vh;
+}
+
+
+.jumbotron{
+ border: 1px solid #2b2a47;
+ margin-top:20px;
+ background-color:#fff !important;
+ 
+}
+
